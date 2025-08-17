@@ -46,3 +46,9 @@ Dataset: Breast Cancer dataset (binary classification).
 Result: Achieved 96% overall accuracy with excellent recall on malignant cases (100%), making the model highly reliable for medical screening tasks.
 
 🔥 This project showcases how ML + healthcare can work together to assist in early breast cancer detection.
+
+## 📌 Citation
+If you use this repository in your research or project, please give proper credit:
+
+**Manvith Mogaveera — Breast Cancer Prediction Model Performance Analysis**
+
